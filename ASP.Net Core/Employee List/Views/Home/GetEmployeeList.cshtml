@@ -1,0 +1,27 @@
+﻿@model IEnumerable<EmployeeList.Models.Employee>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<h2>GetEmployeeList</h2>
+@{
+    string styleType = null;
+    foreach(var item in Model)
+    {
+        if (item.IsPermanent==true)
+        {
+            styleType = "color:blue;font-weight:bold";
+        }
+        else
+        {
+            styleType = string.Empty;
+        }
+
+    <div style="@styleType" >
+        <span>ID : @item.Id</span>
+        <span>Name : @item.Name</span>
+        <span>Salary : @item.Salary</span>
+        <span>Status : @item.IsPermanent</span>
+    </div>
+    }
+}
