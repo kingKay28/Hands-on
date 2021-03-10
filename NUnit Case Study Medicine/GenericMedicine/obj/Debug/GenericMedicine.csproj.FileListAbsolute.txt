@@ -1,6 +1,0 @@
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe.config
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.pdb
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csproj.CoreCompileInputs.cache
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.exe
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Generic Medicine\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.pdb
