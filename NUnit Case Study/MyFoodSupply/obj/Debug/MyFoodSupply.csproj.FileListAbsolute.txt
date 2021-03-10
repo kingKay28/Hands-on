@@ -1,7 +1,0 @@
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Food Suply\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe.config
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Food Suply\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Food Suply\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.pdb
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Food Suply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csproj.CoreCompileInputs.cache
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Food Suply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.exe
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Food Suply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.pdb
-C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Case Study\Food Suply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csprojAssemblyReference.cache
