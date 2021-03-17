@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AdapterPatternCar/1.0.0": {
+        "runtime": {
+          "AdapterPatternCar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdapterPatternCar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

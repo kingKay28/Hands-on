@@ -1,0 +1,13 @@
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\bin\Debug\netcoreapp3.1\AdapterPatternCar.exe
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\bin\Debug\netcoreapp3.1\AdapterPatternCar.deps.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\bin\Debug\netcoreapp3.1\AdapterPatternCar.runtimeconfig.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\bin\Debug\netcoreapp3.1\AdapterPatternCar.runtimeconfig.dev.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\bin\Debug\netcoreapp3.1\AdapterPatternCar.dll
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\bin\Debug\netcoreapp3.1\AdapterPatternCar.pdb
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\obj\Debug\netcoreapp3.1\AdapterPatternCar.csprojAssemblyReference.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\obj\Debug\netcoreapp3.1\AdapterPatternCar.AssemblyInfoInputs.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\obj\Debug\netcoreapp3.1\AdapterPatternCar.AssemblyInfo.cs
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\obj\Debug\netcoreapp3.1\AdapterPatternCar.csproj.CoreCompileInputs.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\obj\Debug\netcoreapp3.1\AdapterPatternCar.dll
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\obj\Debug\netcoreapp3.1\AdapterPatternCar.pdb
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\AdapterPatternCar\obj\Debug\netcoreapp3.1\AdapterPatternCar.genruntimeconfig.cache
