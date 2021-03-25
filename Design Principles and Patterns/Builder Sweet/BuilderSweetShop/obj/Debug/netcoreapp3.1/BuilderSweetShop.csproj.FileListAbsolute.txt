@@ -1,0 +1,13 @@
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\bin\Debug\netcoreapp3.1\BuilderSweetShop.exe
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\bin\Debug\netcoreapp3.1\BuilderSweetShop.deps.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\bin\Debug\netcoreapp3.1\BuilderSweetShop.runtimeconfig.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\bin\Debug\netcoreapp3.1\BuilderSweetShop.runtimeconfig.dev.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\bin\Debug\netcoreapp3.1\BuilderSweetShop.dll
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\bin\Debug\netcoreapp3.1\BuilderSweetShop.pdb
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\obj\Debug\netcoreapp3.1\BuilderSweetShop.csprojAssemblyReference.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\obj\Debug\netcoreapp3.1\BuilderSweetShop.AssemblyInfoInputs.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\obj\Debug\netcoreapp3.1\BuilderSweetShop.AssemblyInfo.cs
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\obj\Debug\netcoreapp3.1\BuilderSweetShop.csproj.CoreCompileInputs.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\obj\Debug\netcoreapp3.1\BuilderSweetShop.dll
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\obj\Debug\netcoreapp3.1\BuilderSweetShop.pdb
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D2\BuilderSweetShop\obj\Debug\netcoreapp3.1\BuilderSweetShop.genruntimeconfig.cache
