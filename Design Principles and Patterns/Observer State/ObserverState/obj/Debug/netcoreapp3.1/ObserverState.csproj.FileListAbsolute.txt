@@ -1,0 +1,13 @@
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\obj\Debug\netcoreapp3.1\ObserverState.csprojAssemblyReference.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\obj\Debug\netcoreapp3.1\ObserverState.AssemblyInfoInputs.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\obj\Debug\netcoreapp3.1\ObserverState.AssemblyInfo.cs
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\obj\Debug\netcoreapp3.1\ObserverState.csproj.CoreCompileInputs.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\bin\Debug\netcoreapp3.1\ObserverState.exe
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\bin\Debug\netcoreapp3.1\ObserverState.deps.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\bin\Debug\netcoreapp3.1\ObserverState.runtimeconfig.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\bin\Debug\netcoreapp3.1\ObserverState.runtimeconfig.dev.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\bin\Debug\netcoreapp3.1\ObserverState.dll
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\bin\Debug\netcoreapp3.1\ObserverState.pdb
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\obj\Debug\netcoreapp3.1\ObserverState.dll
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\obj\Debug\netcoreapp3.1\ObserverState.pdb
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\ObserverState\obj\Debug\netcoreapp3.1\ObserverState.genruntimeconfig.cache
