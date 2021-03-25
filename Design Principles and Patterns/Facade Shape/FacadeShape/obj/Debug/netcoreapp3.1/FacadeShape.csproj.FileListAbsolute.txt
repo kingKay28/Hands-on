@@ -1,0 +1,13 @@
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\bin\Debug\netcoreapp3.1\FacadeShape.exe
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\bin\Debug\netcoreapp3.1\FacadeShape.deps.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\bin\Debug\netcoreapp3.1\FacadeShape.runtimeconfig.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\bin\Debug\netcoreapp3.1\FacadeShape.runtimeconfig.dev.json
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\bin\Debug\netcoreapp3.1\FacadeShape.dll
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\bin\Debug\netcoreapp3.1\FacadeShape.pdb
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\obj\Debug\netcoreapp3.1\FacadeShape.csprojAssemblyReference.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\obj\Debug\netcoreapp3.1\FacadeShape.AssemblyInfoInputs.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\obj\Debug\netcoreapp3.1\FacadeShape.AssemblyInfo.cs
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\obj\Debug\netcoreapp3.1\FacadeShape.csproj.CoreCompileInputs.cache
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\obj\Debug\netcoreapp3.1\FacadeShape.dll
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\obj\Debug\netcoreapp3.1\FacadeShape.pdb
+C:\Users\KINGSHUK PAL\Desktop\CTS\Technical training ( 4.1.21--)\Stage 3 Misc\Design Principles and Patterns\Hands ons\D3\FacadeShape\obj\Debug\netcoreapp3.1\FacadeShape.genruntimeconfig.cache
